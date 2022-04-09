@@ -1,0 +1,12 @@
+Instalaion de JetStream (Siempre para un nuevo proyecto)
+
+IMPORTANTE:
+1. Instalar NodeJs
+2. Composer
+
+
+->> new larajet --jet
+	elegir (liveware)
+->> npm install
+->> npm run dev
+->> php artisan migrate
